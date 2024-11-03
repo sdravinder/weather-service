@@ -37,6 +37,6 @@ React_Frontend -> User: Displays the forecast
 @enduml
 ```
 
-![Image](SequenceDiagram.png)
+![Image](/Sequence%20Diagram/SequenceDiagram.png)
 
 
